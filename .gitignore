@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Cypress downloads e caches
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+
+# IDEs e sistemas operacionais
+.idea/
+.vscode/
