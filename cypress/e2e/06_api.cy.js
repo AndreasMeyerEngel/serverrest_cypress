@@ -1,7 +1,7 @@
 import loginPage from "../pages/loginPage";
 import { faker } from '@faker-js/faker';
 
-describe('API Tests com Custom Commands', () => {
+describe('API Tests', () => {
   let usuarioAdmin;
 
   beforeEach(() => {
