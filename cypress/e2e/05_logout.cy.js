@@ -1,5 +1,4 @@
 import loginPage from "../pages/loginPage";
-import { faker } from '@faker-js/faker';
 import logoutPage from "../pages/logoutPage";
 
 describe('Logout', () => {

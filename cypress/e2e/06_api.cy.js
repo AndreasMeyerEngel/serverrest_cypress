@@ -13,7 +13,7 @@ describe('API Tests', () => {
 
   before(() => {
     cy.fixture('usuarioAdmin.json').then((usuario) => {
-      cy.loginAdmin(usuario.email, usuario.senha); // Utilizando custom command
+      cy.loginAdmin(usuario.email, usuario.senha); // Custom command
     });
   });
 

@@ -1,6 +1,6 @@
 import listarProdutoPage from "../pages/listarProdutoPage";
 import loginPage from "../pages/loginPage";
-import { faker } from '@faker-js/faker';
+
 
 describe('Listar Produtos', () => {
     let usuarioAdmin;

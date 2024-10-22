@@ -1,5 +1,5 @@
 import loginPage from "../pages/loginPage";
-import { faker } from '@faker-js/faker'; // Importação do faker
+import { faker } from '@faker-js/faker'; 
 
 describe('Login', () => {
   let usuarioAdmin;
