@@ -87,10 +87,6 @@ Este projeto utiliza **Cypress** para automação de testes e inclui cenários d
  
  Os cenários de testes, estão definidos na pasta Etapa 1, porém deixarei presente aqui na documentação também.
 
-# Documentação de Testes
-
-## Cenários de Teste
-
 ### 1. Login de Usuário Admin (Front-end)
 **Motivo:** O login é essencial para acessar qualquer funcionalidade do sistema. Sem ele, o usuário não conseguirá realizar nenhuma operação.  
 **Criticidade:** Alta - login é essencial para acessar qualquer outra parte do sistema.  
